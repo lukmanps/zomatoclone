@@ -294,7 +294,7 @@ height: 620px;
 background-color: white;
 position: relative;
 top: 350px;
-left: 250px;
+left: 400px;
 
 }
 .section4-container{
@@ -381,4 +381,11 @@ left: 250px;
     position: relative;
     top: 15px;
     left: 15px;
+}
+
+hr{
+    width: 70%;
+    position: relative;
+    top: 300px;
+    left: 100px;
 }
